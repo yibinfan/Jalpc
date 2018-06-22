@@ -24,8 +24,8 @@
   tpl: projects.html
   css: project
 
-- id: cv
-  i18n: nav.cv
+- id: blogs
+  i18n: nav.blogs
   name: CV
   tpl: cv.html
   css: 
