@@ -9,8 +9,8 @@
 - id: cv
   i18n: nav.cv
   name: CV
-  tpl: career.html
-  css: timeline
+  tpl: cv.html
+  css: 
   
 - id: honors and awards
   i18n: nav.career
