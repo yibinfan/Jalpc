@@ -15,7 +15,7 @@
   icon: fa-plus-square
 
 - name:
-    detail: Principal Scholarship, NTHU
+    detail: APNOMS 2017 Student Travel Grant
     i18n: company_b
   desc:
     detail: 
@@ -29,7 +29,7 @@
   icon: fa-plus-square
 
 - name:
-    detail: APNOMS 2017 Student Travel Grant
+    detail: Principal Scholarship, NTHU
     i18n: company_c
   desc:
     detail: 
@@ -43,15 +43,85 @@
   icon: fa-plus-square
 
 - name:
-    detail: Principal Scholarship, NTHU
+    detail: Ministry of Science and Technology (Taiwan) Travel Grant
     i18n: company_d
   desc:
     detail: 
     i18n: company_d_desc
   date:
-    detail: Feb. 2016
+    detail: Oct. 2016
     i18n: company_d_date
   job:
     detail: 
     i18n: company_d_job
+  icon: fa-plus-square
+
+- name:
+    detail: ACM Multimedia 2016 Student Travel Grant
+    i18n: company_e
+  desc:
+    detail: 
+    i18n: company_e_desc
+  date:
+    detail: Oct. 2016
+    i18n: company_e_date
+  job:
+    detail: 
+    i18n: company_e_job
+  icon: fa-plus-square
+  
+  - name:
+    detail: Principal Scholarship, NTHU
+    i18n: company_f
+  desc:
+    detail: 
+    i18n: company_f_desc
+  date:
+    detail: Feb. 2016
+    i18n: company_f_date
+  job:
+    detail: 
+    i18n: company_f_job
+  icon: fa-plus-square
+  
+  - name:
+    detail: Pan Wen-Yuan Foundation Scholarship
+    i18n: company_g
+  desc:
+    detail: 
+    i18n: company_g_desc
+  date:
+    detail: Sep. 2015
+    i18n: company_g_date
+  job:
+    detail: 
+    i18n: company_g_job
+  icon: fa-plus-square
+  
+  - name:
+    detail: Ministry of Science and Technology (Taiwan) Travel Grant
+    i18n: company_h
+  desc:
+    detail: 
+    i18n: company_h_desc
+  date:
+    detail: Oct. 2015
+    i18n: company_h_date
+  job:
+    detail: 
+    i18n: company_h_job
+  icon: fa-plus-square
+  
+  - name:
+    detail: ACM Multimedia Systems 2015 Student Travel Grant
+    i18n: company_i
+  desc:
+    detail: 
+    i18n: company_i_desc
+  date:
+    detail: Mar. 2015
+    i18n: company_i_date
+  job:
+    detail: 
+    i18n: company_i_job
   icon: fa-plus-square
