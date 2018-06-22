@@ -5,12 +5,6 @@
   name: About
   tpl: about.html
   css:
-
-- id: cv
-  i18n: nav.cv
-  name: CV
-  tpl: cv.html
-  css: 
   
 - id: honors and awards
   i18n: nav.career
@@ -29,6 +23,12 @@
   name: Projects
   tpl: projects.html
   css: project
+
+- id: cv
+  i18n: nav.cv
+  name: CV
+  tpl: cv.html
+  css: 
 
 - id: links
   i18n: nav.link
