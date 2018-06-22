@@ -6,9 +6,9 @@
   tpl: about.html
   css:
 
-- id: education
-  i18n: nav.education
-  name: Education
+- id: cv
+  i18n: nav.cv
+  name: CV
   tpl: career.html
   css: timeline
   
