@@ -70,7 +70,7 @@
     i18n: company_e_job
   icon: fa-plus-square
   
-  - name:
+- name:
     detail: Principal Scholarship, NTHU
     i18n: company_f
   desc:
@@ -84,7 +84,7 @@
     i18n: company_f_job
   icon: fa-plus-square
   
-  - name:
+- name:
     detail: Pan Wen-Yuan Foundation Scholarship
     i18n: company_g
   desc:
@@ -98,7 +98,7 @@
     i18n: company_g_job
   icon: fa-plus-square
   
-  - name:
+- name:
     detail: Ministry of Science and Technology (Taiwan) Travel Grant
     i18n: company_h
   desc:
@@ -112,7 +112,7 @@
     i18n: company_h_job
   icon: fa-plus-square
   
-  - name:
+- name:
     detail: ACM Multimedia Systems 2015 Student Travel Grant
     i18n: company_i
   desc:
