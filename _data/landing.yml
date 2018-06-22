@@ -7,7 +7,7 @@
   css:
 
 - id: education
-  i18n: nav.career
+  i18n: nav.education
   name: Education
   tpl: career.html
   css: timeline
