@@ -6,13 +6,19 @@
   tpl: about.html
   css:
 
-- id: career
+- id: education
+  i18n: nav.career
+  name: Career
+  tpl: career.html
+  css: timeline
+  
+- id: honors and awards
   i18n: nav.career
   name: Career
   tpl: career.html
   css: timeline
 
-- id: skills
+- id: publications
   i18n: nav.skills
   name: Skills
   tpl: skills.html
@@ -23,13 +29,6 @@
   name: Projects
   tpl: projects.html
   css: project
-
-- id: blog
-  i18n: nav.blog
-  name: Blog
-  tpl: blog.html
-  page: blog/
-  css: testimonials navy-section
 
 - id: links
   i18n: nav.link
