@@ -10,20 +10,48 @@
     detail: Mar. 2018
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: 
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: Principal Scholarship, NTHU
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: 
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Feb. 2017
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: 
     i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: APNOMS 2017 Student Travel Grant
+    i18n: company_c
+  desc:
+    detail: 
+    i18n: company_c_desc
+  date:
+    detail: Sep. 2017
+    i18n: company_c_date
+  job:
+    detail: 
+    i18n: company_c_job
+  icon: fa-plus-square
+
+- name:
+    detail: Principal Scholarship, NTHU
+    i18n: company_d
+  desc:
+    detail: 
+    i18n: company_d_desc
+  date:
+    detail: Feb. 2016
+    i18n: company_d_date
+  job:
+    detail: 
+    i18n: company_d_job
   icon: fa-plus-square
