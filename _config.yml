@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: "I am a Ph.D candidate at National Tsing Hua University, Taiwan. My research interests lie in multimedia networking, e.g., wireless networks, video streaming, 360-degree videos, Virtual Reality (VR), and machine learning. I received Bachelor degree in 2014 and I transfered from the Master degree to Ph.D program in Spring 2016 all at National Tsing Hua University, Taiwan. I have received one best PhD paper presentation award (PerCom'18), several travel grants (APNOMS'17, MM'16, MOST'16, MMSys'15, MOST'15) and published 2 journal and 11 conference/workshop/demo/poster papers."
+  desc: "I am a Ph.D candidate at National Tsing Hua University, Taiwan. My research interests lie in multimedia networking, e.g., wireless networks, video streaming, 360-degree videos, Virtual Reality (VR), and machine learning. I received Bachelor degree in 2014 and I transferred from the Master degree to Ph.D program in Spring 2016 all at National Tsing Hua University, Taiwan. I have received one best PhD paper presentation award (PerCom'18), several travel grants (APNOMS'17, MM'16, MOST'16, MMSys'15, MOST'15) and published 2 journal and 11 conference/workshop/demo/poster papers."
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
 #  name: jalpc
