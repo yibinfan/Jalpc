@@ -6,4 +6,4 @@
   i18n: about_me
   url: https://nmsl.cs.nthu.edu.tw/360video
   img: /static/assets/img/landing/watch_part_of_360video.jpg
-  desc: "- Design and develop a tile-based 360° video streaming system with viewers using HMDs<br>- Train and fine-tune new algorithms for 360° video streaming (e.g., viewed tile prediction algorithms)<br>- Collect a 360° video viewing Dataset, which contains content and sensor data, with viewers using HMDs<br>- New Quality-of-Experience (QoE) metrics designed for 360° video streaming to HMDs<br>- Optimal bitrate allocation algorithm for 360° video streaming<br>- Rate-Distortion (R-D) optimization for 360° video streaming to HMDs"
+  desc: 
