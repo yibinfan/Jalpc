@@ -1,22 +1,9 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
-
-- name: Google
+- name: Efficient 360 Video Streaming to Head-Mounted Displays in Virtual and Augment Reality
   i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+  url: https://nmsl.cs.nthu.edu.tw/360video
+  img: /static/assets/img/landing/watch_part_of_360video.jpg
+  desc: "- Design and develop a tile-based 360° video streaming system with viewers using HMDs<br>- Train and fine-tune new algorithms for 360° video streaming (e.g., viewed tile prediction algorithms)<br>- Collect a 360° video viewing Dataset, which contains content and sensor data, with viewers using HMDs<br>- New Quality-of-Experience (QoE) metrics designed for 360° video streaming to HMDs<br>- Optimal bitrate allocation algorithm for 360° video streaming<br>- Rate-Distortion (R-D) optimization for 360° video streaming to HMDs
