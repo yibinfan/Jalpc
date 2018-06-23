@@ -2,7 +2,7 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
-- name: Efficient 360 Video Streaming to Head-Mounted Displays in Virtual and Augment Reality
+- name: Efficient 360 Video Streaming to Head-Mounted Displays in Virtual Reality
   i18n: google
   url: https://nmsl.cs.nthu.edu.tw/360video
   img: /static/assets/img/landing/watch_part_of_360video.jpg
